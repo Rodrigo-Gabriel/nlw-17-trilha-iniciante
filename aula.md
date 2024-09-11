@@ -34,20 +34,21 @@ apresentar dados
 
 ## Operadores
 
-- [x]Operadores de atribuicao de valor
-- [x]Operador de concatenacao
+- [x] Operadores de atribuicao de valor: =
+- [x] Operador de concatenacao: +
+- [x] Operadores de comparacao: == != <= >= < >
 
 ## Estruturas de dados:
 
 ## Arrays:
 
-- [x]Uma lista que contem qualquer tipo de dado
+- [x] Uma lista que contem qualquer tipo de dado
 
 ### Objetos:
 
-- [x]Atributos e metodos
-- [x]Criacao e manipulacao de objetos
-- [x]Acesso a propriedades de objetos
+- [x] Atributos e metodos
+- [x] Criacao e manipulacao de objetos
+- [x] Acesso a propriedades de objetos
 
 ### Functions
 
@@ -62,6 +63,7 @@ apresentar dados
 # Condicionais
 
 - [x] switch
+- [x] if/else
 
 ## Modulos em Node.js:
 
