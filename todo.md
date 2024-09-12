@@ -5,3 +5,4 @@
 - [x] Marcar/Desmarcar metas como concluidas
 - [x] Remover metas
 - [x] Sistema de mensagens
+- [x] Sistema de carregar e salvar metas
